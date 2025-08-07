@@ -109,3 +109,10 @@
 **Problem**: For each player, you have minutes played per game, field goal attempts, and number of assists.
 **Task**: Predict the player’s points per game using linear regression.
 
+
+
+## References
+
+- https://02323.compute.dtu.dk/enotes/solutions-chapter5.pdf
+- https://mitocw.ups.edu.ec/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/assignment-2/state-data/
+- https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_class26-prep.pdf
