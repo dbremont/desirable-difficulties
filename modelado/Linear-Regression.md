@@ -55,3 +55,57 @@
     - How do linear regression coefficients behave in the presence of outliers or adversarial data?
     - What are the limits of interpretability in high-dimensional linear regression?
     - What are the assumptions behind using log-linear or interaction models within the linear regression framework?
+
+
+## Problems
+
+### **Education** – Student Dropout Risk
+
+**Problem**: You're given a dataset of university students with features like attendance rate, GPA, parental education level, and number of failed courses.
+**Task**: Use linear regression to predict the probability of a student dropping out before graduation.
+
+### **Healthcare** – Predicting Blood Pressure
+
+**Problem**: A clinic collected data on patients, including their age, weight, salt intake (grams/day), and physical activity level (hours/week).
+**Task**: Build a linear regression model to estimate a patient’s systolic blood pressure.
+
+### **Real Estate** – House Price Estimation
+
+**Problem**: You’re given data on houses, including square footage, number of bedrooms, age of the house, and distance to city center.
+**Task**: Train a linear model to predict the market price of a house.
+
+### **Marketing** – Advertising and Sales
+
+**Problem**: A company advertises through TV, radio, and newspapers. You have the ad spend in each channel and the resulting product sales.
+**Task**: Use multiple linear regression to model the relationship between ad spending and product sales.
+
+### **Agriculture** – Crop Yield Prediction
+
+**Problem**: For a region’s farms, data includes average monthly rainfall, fertilizer used per hectare, and hours of sunshine.
+**Task**: Build a model to predict wheat yield (tons per hectare).
+
+### **Transportation** – Commute Time Estimation
+
+**Problem**: A city monitors commute time (in minutes) along with distance (km), number of traffic lights, and time of day.
+**Task**: Use linear regression to estimate commute time based on these features.
+
+### **Finance** – Credit Risk Scoring
+
+**Problem**: A financial institution records applicant income, debt-to-income ratio, and credit history length.
+**Task**: Predict a simplified credit risk score (continuous value) using linear regression.
+
+### **Energy** – Predicting Electricity Usage
+
+**Problem**: You’re given household electricity consumption data along with outside temperature, number of occupants, and time of year.
+**Task**: Build a model to predict daily energy usage (kWh).
+
+### **Environmental Science** – Air Pollution Levels
+
+**Problem**: A city tracks air quality index (AQI) along with data on industrial activity, humidity, and wind speed.
+**Task**: Use linear regression to predict AQI values from the environmental factors.
+
+### **Sports Analytics** – Basketball Player Performance
+
+**Problem**: For each player, you have minutes played per game, field goal attempts, and number of assists.
+**Task**: Predict the player’s points per game using linear regression.
+
