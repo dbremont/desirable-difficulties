@@ -13,4 +13,44 @@
 - Two real numbers X and Y are chosen at random in the interval (0, 1).
 Compute the probability that the closest integer to X/Y is even.
 - `If every family has a child until a boy is born; what will the average proportion of boys to girls be?`
-- ...
+
+
+---
+
+**1. Prompt 1:** For each of the following scenarios, find the requested probability. Assume the sets $A, B,$ and $C$ are events from the same sample space $S$. (Hint: Venn diagrams may help with the visualization, although they are not required to answer the questions.)
+
+If $P(A) = .4, P(B^c) = .7,$ and $P(A \cap B^c) = .2,$ find $P(A \cap B)$
+
+Enter answer here
+
+---
+
+**2. Prompt 1:** For each of the following scenarios, find the requested probability. Assume the sets $A, B,$ and $C$ are events from the same sample space $S$. (Hint: Venn diagrams may help with the visualization, although they are not required to answer the questions.)
+
+If $P(A) = 0.9$ and $P(B) = 0.9$, what is the lower bound for $P(A \cup B)$.
+
+Enter answer here
+
+---
+
+**3. Prompt 2:** Three popular options on a certain type of car are $A$ leather seats, $B$ a sunroof, and $C$ heated seats. In the past, $P(A) = 0.55$ (i.e. 55% of the customers have requested option $A$), $P(B) = 0.45, P(C) = 0.4$. Furthermore, $P(A \cap B) = 0.25, P(A \cap C) = 0.2, P(B \cap C) = 0.15$ and $P(A \cap B \cap C) = 0.1$.
+
+Find the probability that a customer will ask for at least one of the three options.
+
+Enter answer here
+
+---
+
+**4. Prompt 2:** Three popular options on a certain type of car are $A$ leather seats, $B$ a sunroof, and $C$ heated seats. In the past, $P(A) = 0.55$ (i.e. 55% of the customers have requested option $A$), $P(B) = 0.45, P(C) = 0.4$. Furthermore, $P(A \cap B) = 0.25, P(A \cap C) = 0.2, P(B \cap C) = 0.15$ and $P(A \cap B \cap C) = 0.1$.
+
+Find the probability that a customer will not ask for any of these three options.
+
+Enter answer here
+
+---
+
+**5. Prompt 2:** Three popular options on a certain type of car are $A$ leather seats, $B$ a sunroof, and $C$ heated seats. In the past, $P(A) = 0.55$ (i.e. 55% of the customers have requested option $A$), $P(B) = 0.45, P(C) = 0.4$. Furthermore, $P(A \cap B) = 0.25, P(A \cap C) = 0.2, P(B \cap C) = 0.15$ and $P(A \cap B \cap C) = 0.1$.
+
+Find the probability that a customer will ask for heated leather seats but not a sunroof.
+
+---
