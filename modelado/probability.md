@@ -45,3 +45,33 @@ Three popular options on a certain type of car are $A$ leather seats, $B$ a sunr
 Find the probability that a customer will ask for heated leather seats but not a sunroof.
 
 ---
+
+Three popular options on a certain type of car are $A$ leather seats, $B$ a sunroof, and $C$ heated seats. In the past, $P(A) = 0.55$ (i.e. 55% of the customers have requested option $A$), $P(B) = 0.45, P(C) = 0.4$. Furthermore, $P(A \cap B) = 0.25, P(A \cap C) = 0.2, P(B \cap C) = 0.15$ and $P(A \cap B \cap C) = 0.1$.
+
+Find the probability that a customer will ask for at most two of the options.
+
+---
+
+Three popular options on a certain type of car are $A$ leather seats, $B$ a sunroof, and $C$ heated seats. In the past, $P(A) = 0.55$ (i.e. 55% of the customers have requested option $A$), $P(B) = 0.45, P(C) = 0.4$. Furthermore, $P(A \cap B) = 0.25, P(A \cap C) = 0.2, P(B \cap C) = 0.15$ and $P(A \cap B \cap C) = 0.1$.
+
+Find the probability that a customer will ask for exactly two of the options.
+
+---
+
+A message of length 5 digits is to be sent. Each digit can be a 0, 1, or 2.
+
+What is the cardinality of the sample space?
+
+---
+
+A message of length 5 digits is to be sent. Each digit can be a 0, 1, or 2.
+
+If every message is equally likely, what is the probability that the message consists of 2 zeros, 2 ones, and 1 two? Round your answer to have four decimal places.
+
+---
+
+A message of length 5 digits is to be sent. Each digit can be a 0, 1, or 2.
+
+What is the probability that the message contains at least one zero? Round your answer to have three decimal places.
+
+---
